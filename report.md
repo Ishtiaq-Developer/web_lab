@@ -1,0 +1,3 @@
+# Lab 01 Report
+
+In this lab, I learned how to use Git for version control and manage my project efficiently. I practiced creating files like .gitignore, LICENSE, and test.txt, and understood how Git tracks changes. I also learned how to create branches, switch between them, and merge changes into the main branch. Working with branches helped me understand how developers manage experimental features without affecting the main project. Overall, this lab improved my practical understanding of Git and GitHub.
